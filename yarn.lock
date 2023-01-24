@@ -35,6 +35,11 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@cndllabs/v3-core@^1.0.2":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@cndllabs/v3-core/-/v3-core-1.0.5.tgz#396439c23a9a2aefd7f5dba80db571c26246325e"
+  integrity sha512-narTH2KSXgW1Su9ctwwZy/RDWeD1gZcTe2tD9rU3qGvHLbT4SX+36gW7VaWShgWNRRyYnuTgfHP2tlGo2x8A/w==
+
 "@ensdomains/ens@^0.4.4":
   version "0.4.5"
   resolved "https://registry.yarnpkg.com/@ensdomains/ens/-/ens-0.4.5.tgz#e0aebc005afdc066447c6e22feb4eda89a5edbfc"
@@ -1054,11 +1059,6 @@
 "@uniswap/v2-core@1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@uniswap/v2-core/-/v2-core-1.0.1.tgz#af8f508bf183204779938969e2e54043e147d425"
-
-"@cndllabs/v3-core@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@cndllabs/v3-core/-/v3-core-1.0.0.tgz#6c24adacc4c25dceee0ba3ca142b35adbd7e359d"
-  integrity sha512-kSC4djMGKMHj7sLMYVnn61k9nu+lHjMIxgg9CDQT+s2QYLoA56GbSK9Oxr+qJXzzygbkrmuY6cwgP6cW2JXPFA==
 
 "@yarnpkg/lockfile@^1.1.0":
   version "1.1.0"
@@ -2455,8 +2455,9 @@ cookie@^0.4.1:
   resolved "https://registry.yarnpkg.com/cookie/-/cookie-0.4.1.tgz#afd713fe26ebd21ba95ceb61f9a8116e50a537d1"
 
 cookiejar@^2.1.1:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.2.tgz#dd8a235530752f988f9a0844f3fc589e3111125c"
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.4.tgz#ee669c1fea2cf42dc31585469d193fef0d65771b"
+  integrity sha512-LDx6oHrK+PhzLKJU9j5S7/Y3jM/mUHvD/DeI1WQmJn652iPC5Y4TBzC9l+5OMOXlyTTA+SmVUPm0HQUwpD5Jqw==
 
 copy-descriptor@^0.1.0:
   version "0.1.1"
